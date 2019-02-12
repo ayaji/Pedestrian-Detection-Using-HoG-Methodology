@@ -5,7 +5,6 @@ We have four folders:
 2. Descriptor - It is a folder where descriptors for positive and negative samples are calculated and saved.
 3. Detector - It is a folder, where HOG Detectors are calculated and saved.
 4. result_fig - This folder will have image detected results.
-
 ----------------------------------------------------------------------------------------------------------------------------
 #Instruction to run the code:
 ---------------------------------------------------------------------------------------------------------------------------
@@ -18,7 +17,6 @@ Step 2.1: We can run 'runDetection.py' in two ways:
 					    
 			Step 2.1.2: Without argument, which takes images from the predefined image dataset mentioned in the folder 'Dataset' and performs detection on it.
 					To run 'runDetection.py' without argument use command 'python runDetection.py'.
-
 -------------------------------------------------------------------------------------------------------------------------------
 Note:
 1.If we run the code without argument, system will run detection on 40 images and produce results.
